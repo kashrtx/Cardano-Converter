@@ -2,7 +2,7 @@
 
 A modern, elegant Tkinter application for converting between Cardano (ADA) cryptocurrency and Canadian Dollars (CAD), featuring an Apple-inspired design.
 
-![Cardano Converter](ada_logo.png)
+<img src="https://res.coinpaper.com/coinpaper/cardano_ada_logo_d684df0304.png" width="200" title="Cardano Logo" alt="Cardano Logo"/>
 
 ## Features
 
